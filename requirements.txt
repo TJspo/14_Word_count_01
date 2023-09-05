@@ -1,1 +1,2 @@
 streamlit
+mecab-python3==1.0.4
