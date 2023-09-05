@@ -1,4 +1,1 @@
 streamlit
-MeCab
-collections
-mecab-python3
