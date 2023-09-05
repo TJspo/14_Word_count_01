@@ -1,3 +1,4 @@
 streamlit==1.21.0
 MeCab
 collections
+mecab-python3
