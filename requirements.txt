@@ -1,4 +1,2 @@
-streamlit==1.21.0
-# os
-MeCab
-collections
+streamlit
+mecab-python3==1.0.4  # MeCabのPythonバインディング。ただし、Streamlit Shareでの動作は保証されません。
